@@ -1,0 +1,29 @@
+h1{
+	text-align: center;
+	font-size: 50px;
+	
+}
+.sample_app{
+	text-align: center;
+
+}
+h1:hover {
+	color: #2E2EFE;
+}
+
+.button{
+	text-align: center;
+	border: 2px;
+	height: 31px;
+	width: 132px;
+	border-radius: 10px;
+}
+.button:hover {
+	color: #2E64FE;
+	background: #BDBDBD;
+}
+
+footer{
+	background: #2E2E2E;
+	color: #fff;
+}
